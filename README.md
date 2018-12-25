@@ -1,4 +1,6 @@
 # IT alapismeret gyakorlat
+
+## 1. évben 72 óra, 2. évben 36 óra
 https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettantervek_2018/DL.php?f=073_54_481_06_Informatikai_rendszeruzemelteto.docx
 
 1. Számítógép-szerelés eszközei és használatuk.
