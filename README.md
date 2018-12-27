@@ -69,3 +69,78 @@ U1. PS típusok, UPS üzembe helyezése.
 1. Távoli asztalkapcsolat és távsegítség konfigurálása.
 1. Ütemezett karbantartási feladatok.
 1. Laptopok és hordozható eszközök szakszerű tisztítása.
+
+#### FELADATOK
+1. Számítógépes konfigurációt meghatároz
+1. Számítógépet szakszerűen szét- és összeszerel, alkatrészt cserél
+1. Perifériát csatlakoztat, meghajtó programot telepít
+1. BIOS funkcióikat beállít
+1. UPS teljesítményszükségletet meghatározza, a UPS-t üzembe helyez
+1. Megelőző karbantartást végez
+1. Merevlemezt particionál
+1. Megfelelő operációs rendszert kiválaszt
+1. Operációs rendszert telepít és frissít
+1. Operációs rendszert konfigurál és menedzsel
+1. Alkalmazói programokat telepít, frissít és konfigurál
+1. Postafiókot konfigurál asztali, mobil eszközökön
+1. Biztonsági programokat telepít és használ
+1. Lemezklónozást végez és rendszer-helyreállítást végez
+1. Adatokról biztonsági mentést készít, adatokat helyreállít
+1. Nyomtatót telepít, megoszt és karbantart
+1. LAN/WAN hálózatokat használ
+1. Számítógépet hálózatra csatlakoztat, hálózati kapcsolatokat konfigurál
+1. Internet kapcsolatot megoszt
+1. ESD védelemi eszközöket szakszerűen használ
+1. Számítógépes munkakörnyezetet kialakít
+1. Kézenfekvő problémákat kiszűr
+1. Alapszintű felhőszolgáltatásokat rendel meg és használ
+1. Angol nyelvű műszaki leírásokat értelmez
+1. Betartja a munka-, baleset-, tűz- és környezetvédelmi előírásokat
+
+#### SZAKMAI ISMERETEK
+1. Információtechnológiai alapfogalmak
+1. Kettes, tizenhatos számrendszer
+1. Számítógép főbb részei
+1. Mobil eszközök hardverelemei
+1. BIOS funkciók
+1. Processzorok és típusaik
+1. Memóriák és típusaik
+1. Perifériák
+1. Portok és típusaik
+1. Adattovábbítási módszerek
+1. Asztali, hálózati és mobil operációs rendszerek
+1. Multi-boot környezet
+1. Virtuális gép, hypervisor
+1. GUI és CLI felhasználói felületek
+1. Fájlok, mappák kezelése, megosztása
+1. Fájlrendszerek, jogok és attribútumok
+1. Partíciók típusai, particionálás
+1. Folyamat- és processzorkezelés
+1. Hálózati csatolóegység feladatai és konfigurációja
+1. Alkalmazások telepítése, kompatibilitási mód
+1. Levelezési protokollok
+1. Modern biztonsági fenyegetések
+1. Biztonsági mentések típusai, adatbiztonság, RAID, biztonsági hardver- és szoftvereszközök
+1. Felhőszolgáltatások
+1. Nyomtatók típusai, nyomtatáskezelés
+1. Hálózati nyomtatás, nyomtató megosztás
+1. Felügyeleti eszközök
+1. ESD védelem szükségességének okai
+1. Angol nyelvű szakmai kifejezések
+1. Munka-, baleset-, tűz- és környezetvédelmi előírások
+
+#### SZAKMAI KÉSZSÉGEK
+1. Számítógép összeszerelése
+1. Portok, perifériák csatolása
+1. Operációs rendszer telepítése
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Pontosság
+1. Precizitás
+
+#### TÁRSAS KOMPETENCIÁK
+1. Együttműködés
+1. Kezdeményezőkészség
+
+#### MÓDSZERKOMPETENCIÁK
+1. Ismeretek helyénvaló alkalmazása
